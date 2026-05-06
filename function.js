@@ -54,5 +54,10 @@
 //     i++;
 // }
 
-console.log(name)
-var name = "shisir shahi"
+
+//its oupput is undefined
+// console.log(name)
+// var name = "shisir shahi"
+
+
+

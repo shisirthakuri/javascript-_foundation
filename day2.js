@@ -23,6 +23,9 @@
 // days.shift()
 // console.log(days)
 
-const days = ["monday", "tuesday", "wednesday"]
-console.log(days.length)
+// const days = ["monday", "tuesday", "wednesday"]
+// console.log(days.length)
+
+
+
 
